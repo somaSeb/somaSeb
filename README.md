@@ -2,7 +2,7 @@
 
 ## About me 🌟
 
-- [New to nf and being brought up to speed by jLö]
+- [New to nf and being brought up to speed by [jLö] (https://github.com/JessicaLoers)]
 - [neuefische]
 - [more soon...]
 
