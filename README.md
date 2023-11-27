@@ -10,4 +10,8 @@
 
 | Title | Description | Link |
 | --- | --- | --- |
-| [Profile.md] | [Intro to markdown] | [[https://github.com/somaSeb/somaSeb/] |
+| [Profile.md] | [Intro to markdown] | [https://github.com/somaSeb/somaSeb/] |
+
+## Contact me 💬
+
+- [pm me]
