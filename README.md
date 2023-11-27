@@ -2,9 +2,9 @@
 
 ## About me 🌟
 
-- [Intro about me]
-- [Organization]
-- [more to come]
+- [New to nf and being brought up to speed by jLö]
+- [neuefische]
+- [more soon...]
 
 ## Projects 🚀
 
@@ -14,4 +14,4 @@
 
 ## Contact me 💬
 
-- [pm me]
+- [just pm me]
