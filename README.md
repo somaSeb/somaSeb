@@ -2,7 +2,7 @@
 
 ## About me 🌟
 
-- [New fish and being brought up to speed by [jLö](https://github.com/JessicaLoers)]
+- [New fish being brought up to speed by [jLö](https://github.com/JessicaLoers)]
 - [neuefische]
 - [more soon...]
 
