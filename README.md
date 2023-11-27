@@ -1,14 +1,14 @@
-# Hi there 🙋‍♂️
+# Hi there 👋
 
-## About me 🌟
+## About me 🌱
 
 - [New fish being brought up to speed by [jLö](https://github.com/JessicaLoers)]
 - [neuefische]
 - [more soon&trade;]
 
-## Projects 🚀
+## Projects 📝
 
-| Title | Description | Link |
+| Project | Description | Link |
 | --- | --- | --- |
 | [Profile.md] | [Intro to markdown] | [Repo](https://github.com/somaSeb/somaSeb/) |
 
